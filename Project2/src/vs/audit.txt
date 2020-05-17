@@ -1,0 +1,31 @@
+===========================
+This is STV Droop Quota Algorithm
+Total seats: 2
+Total candidates: 6
+Total Ballots: 20
+shuffle sption is on
+
+calculate the droop value
+Droop is: 7
+1st Round:Assign each ballot to their first desire candidate
+1st Round finished
+Winners so far:
+Candidate name is: A
+
+Ballots received: 5 3 17 1 13 11 19 
+Candidate name is: B
+
+Ballots received: 4 20 16 12 7 8 15 
+Loser so far:
+Candidate name is: C
+
+Ballots received: 10 18 14 2 
+Candidate name is: D
+
+Ballots received: 
+Candidate name is: E
+
+Ballots received: 
+Candidate name is: F
+
+Ballots received: 
